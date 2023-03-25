@@ -28,7 +28,7 @@ export const sendEmail = async ({
   const { html } = render(component);
 
   await transporter.sendMail({
-    from: process.env.EMAIL_FROM,
+    from: 'dandaatt@gmail.com',
     to,
     subject,
     html,
