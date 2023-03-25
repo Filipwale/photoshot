@@ -7,7 +7,7 @@ const HowItWorks = () => {
   return (
     <PageContainer maxWidth="container.md">
       <Head>
-        <title>Photostudio | How it works</title>
+        <title>Photoshot | How it works</title>
       </Head>
 
       <VStack
